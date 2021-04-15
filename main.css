@@ -1,13 +1,21 @@
 .projects {
-   font-family: 'Cormorant Upright', serif;
-   font-size: 25px;
+   font-family: 'Commissioner', sans-serif;
+   font-size: 22px;
    color: brown;
    margin-left: 5%;
-   margin-top: 3%;
+   margin-top: 2%;
 }
 
 a:hover {
   background-color: white;
+}
+
+h1 {
+  font-family: 'Cormorant Infant', serif;
+  font-weight: 500;
+  font-size: 22px;
+  color: brown;
+  margin-bottom: -10px;
 }
 
 .dropbtn {
